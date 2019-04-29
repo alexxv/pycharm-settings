@@ -22,7 +22,14 @@
   </tool>
   <tool name="fet" description="FET" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="fet" />
+      <option name="COMMAND" value="git-feature" />
+      <option name="PARAMETERS" value="create -p &quot;R&amp;D Board&quot; &quot;$Prompt$&quot; " />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="git-pr" description="git-pr" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="git-pr" />
       <option name="PARAMETERS" value="$Prompt$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
