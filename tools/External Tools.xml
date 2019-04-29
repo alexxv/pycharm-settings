@@ -1,0 +1,30 @@
+<toolSet name="External Tools">
+  <tool name="pylint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="PYTHONPATH=/usr/local/google_appengine:$PYTHONPATH pylint" />
+      <option name="PARAMETERS" value="--jobs=4 --rcfile=../.pylintrc -f colorized -r n affiliate_networks apps api catalog categories importing migrations scheduler scraping shared || exit 0 " />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/dev/wondermall/gae/code" />
+    </exec>
+  </tool>
+  <tool name="pylint2" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="make" />
+      <option name="PARAMETERS" value="lint" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/dev/wondermall/gae" />
+    </exec>
+  </tool>
+  <tool name="local-es" description="Local Elasticsearch" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="docker" />
+      <option name="PARAMETERS" value="run -p 9200:9200 -p 9300:9300  -e &quot;http.host=0.0.0.0&quot; -e &quot;transport.host=127.0.0.1&quot; -e &quot;xpack.security.enabled=false&quot;  -e &quot;discovery.type=single-node&quot; docker.elastic.co/elasticsearch/elasticsearch:6.3.0" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="fet" description="FET" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fet" />
+      <option name="PARAMETERS" value="$Prompt$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

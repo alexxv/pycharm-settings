@@ -1,0 +1,16 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="isMaterialTheme" value="false" />
+    <option name="isWizardShown" value="true" />
+    <option name="tabsHeight" value="35" />
+    <option name="accentColor" value="795548" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="720961ef:16633c09a68:-7fff" />
+    <option name="version" value="3.9.2" />
+  </component>
+</application>
