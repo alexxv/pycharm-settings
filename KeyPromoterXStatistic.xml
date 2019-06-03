@@ -217,6 +217,22 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pytest for test_billing_calculation.BillingCalculationTestCase'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pytest for test_billing_calculation.BillingCalculationTestCase'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest for test_billing_calculation.test_billing_calc__site_config_not_found__decision_not_throws_should_be_billed_non_and_proper_reason'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pytest for test_billing_calculation.test_billing_calc__site_config_not_found__decision_not_throws_should_be_billed_non_and_proper_reason'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'pytest for test_tag_email_first_seen.test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -254,7 +270,15 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>15</Count>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'⇧⌘F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
