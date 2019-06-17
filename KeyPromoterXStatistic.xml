@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>340</Count>
+          <Count>342</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Enrichment Service - PROD'">
@@ -215,6 +215,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'accounts_webhooks'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'bla'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'bla'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'db_reader'">
