@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>364</Count>
+          <Count>382</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -190,7 +190,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10' or '⌘R'</ShortCut>
           <Description>Run 'run'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'scratch'">
@@ -334,7 +334,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'run'</Description>
-          <Count>46</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'skeleton'">
@@ -350,7 +350,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>34</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
