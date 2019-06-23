@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>436</Count>
+          <Count>445</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -175,6 +175,14 @@
           <ShortCut>'⇧F10' or '⌘R'</ShortCut>
           <Description>Run 'Enrichment Service - PROD'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests in test_re...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
+          <Description>Run 'Unittests in test_re...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'accounts_retro_status'">
