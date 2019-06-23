@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>408</Count>
+          <Count>414</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -377,6 +377,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pytest for test_google_address_enrichment.GoogleAddressEnrichmentTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pytest for test_google_address_enrichment.GoogleAddressEnrichmentTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'pytest for test_tag_email_first_seen.test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -446,7 +454,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>42</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
