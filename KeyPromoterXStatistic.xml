@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>405</Count>
+          <Count>408</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -110,6 +110,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'pytest in test_enrichment_service.py'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest in test_extract_raw_address_unit_number.py'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'pytest in test_extract_raw_address_unit_number.py'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
