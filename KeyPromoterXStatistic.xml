@@ -369,6 +369,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pytest for test_fullcontact.test_known_email_fetch_full_contact_from_cache'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pytest for test_fullcontact.test_known_email_fetch_full_contact_from_cache'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'pytest for test_tag_email_first_seen.test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -383,6 +391,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'pytest in test'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest in test_api_call_counter.py'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pytest in test_api_call_counter.py'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pytest in test_enrichment_service.py'">
@@ -430,7 +446,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>40</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
