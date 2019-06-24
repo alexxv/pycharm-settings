@@ -49,6 +49,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'pytest for enrichmen...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'pytest for enrichmen...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'run'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -62,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>496</Count>
+          <Count>502</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -481,6 +489,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pytest for enrichment.email_enrichment.fullcontact.test.test_fullcontact.test_third_part_quota_exceeded_send_riemann_event'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pytest for enrichment.email_enrichment.fullcontact.test.test_fullcontact.test_third_part_quota_exceeded_send_riemann_event'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'pytest for test_billing_calculation.BillingCalculationTestCase'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -630,7 +646,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
