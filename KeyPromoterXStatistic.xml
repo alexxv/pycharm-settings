@@ -14,7 +14,7 @@
           <IdeaActionID>XDebugger.AttachToProcess</IdeaActionID>
           <ShortCut>'⌥⇧F5'</ShortCut>
           <Description>Attach to Process...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>483</Count>
+          <Count>484</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -119,6 +119,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'mr_spark.job'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pytest for bolts_rerun.tests.test_rerunner.TestReRunnerJson.test_first_line'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'pytest for bolts_rerun.tests.test_rerunner.TestReRunnerJson.test_first_line'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'pytest for test_enrichment_service.test_address_enrichment'">
@@ -470,7 +478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'pytest for bolts_rerun.tests.test_rerunner.TestReRunnerJson.test_first_line'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pytest for test_billing_calculation.BillingCalculationTestCase'">
