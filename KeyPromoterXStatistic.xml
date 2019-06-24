@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Attach to Process...">
+        <Item>
+          <IdeaActionID>XDebugger.AttachToProcess</IdeaActionID>
+          <ShortCut>'⌥⇧F5'</ShortCut>
+          <Description>Attach to Process...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close Project">
         <Item>
           <IdeaActionID>CloseProject</IdeaActionID>
