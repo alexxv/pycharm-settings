@@ -270,7 +270,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10' or '⌘R'</ShortCut>
           <Description>Run 'generate_views'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'load_from_s3_path'">
