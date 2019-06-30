@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>575</Count>
+          <Count>576</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -214,6 +214,14 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Enrichment Service - DEV - Mocks'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10' or '⌘R'</ShortCut>
+          <Description>Run 'Enrichment Service - DEV - Mocks'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -399,6 +407,14 @@
           <ShortCut>'⇧F10' or '⌘R'</ShortCut>
           <Description>Run 'scratch'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Enrichment Service - DEV - Mocks'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Enrichment Service - DEV - Mocks'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Enrichment Service - DEV'">
