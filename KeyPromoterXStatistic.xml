@@ -577,6 +577,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pytest for test_deep_planner.DeepPlannerTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pytest for test_deep_planner.DeepPlannerTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'pytest for test_enrichment_service.test_address_enrichment'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
