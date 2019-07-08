@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>670</Count>
+          <Count>671</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -359,6 +359,14 @@
           <ShortCut>'⇧F10' or '⌘R'</ShortCut>
           <Description>Run 'pytest for bolts_rerun.tests.test_rerunner.TestReRunnerJson.test_first_line'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'pytest for test_address_enrichment.AddressEnrichmentVCRTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10' or '⌘R'</ShortCut>
+          <Description>Run 'pytest for test_address_enrichment.AddressEnrichmentVCRTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pytest for test_enri...'">
