@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>723</Count>
+          <Count>724</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -759,6 +759,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'run'</Description>
           <Count>94</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'run_data_prep'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'run_data_prep'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'skeleton'">
