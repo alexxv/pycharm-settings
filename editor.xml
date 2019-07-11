@@ -9,6 +9,7 @@
         <entry key="Python" value="true" />
       </map>
     </option>
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
   <component name="TodoConfiguration">
