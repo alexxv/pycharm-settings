@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>860</Count>
+          <Count>868</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'pytest for test_enrichment_service.test_email_enrichment'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'pytest for test_enrichment_service.test_email_enrichment'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'pytest for test_shallow_planner.ShallowPlannerTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -278,7 +286,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>17</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -710,7 +718,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'pytest for test_enrichment_service.test_email_enrichment'</Description>
-          <Count>6</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pytest for test_enrichment_service.test_phones_enrichment'">
@@ -862,7 +870,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>132</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
