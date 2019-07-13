@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>838</Count>
+          <Count>860</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -127,6 +127,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Enrichment Service - PROD'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '__init__ (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun '__init__ (1)'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'accounts_retro_status'">
@@ -545,6 +553,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '__init__ (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '__init__ (1)'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '__init__'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -687,6 +703,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'pytest for test_enrichment_service.test_address_enrichment'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest for test_enrichment_service.test_email_enrichment'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pytest for test_enrichment_service.test_email_enrichment'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pytest for test_enrichment_service.test_phones_enrichment'">
@@ -838,7 +862,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>131</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
