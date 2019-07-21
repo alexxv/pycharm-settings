@@ -361,6 +361,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ds_domain_type_by_exact_match'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10' or '⌘R'</ShortCut>
+          <Description>Run 'ds_domain_type_by_exact_match'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'generate_main_schema'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -622,6 +630,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'db_reader'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ds_domain_type_by_exact_match'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ds_domain_type_by_exact_match'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
