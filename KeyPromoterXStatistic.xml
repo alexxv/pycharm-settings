@@ -97,12 +97,20 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'run_local_data_prep'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9' or '⌘D'</ShortCut>
+          <Description>Debug 'run_local_data_prep'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1067</Count>
+          <Count>1071</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -942,7 +950,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>172</Count>
+          <Count>173</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
