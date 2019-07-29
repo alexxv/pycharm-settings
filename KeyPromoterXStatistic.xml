@@ -441,6 +441,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'pytest for test_deep_planner.DeepPlannerTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10' or '⌘R'</ShortCut>
+          <Description>Run 'pytest for test_deep_planner.DeepPlannerTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'pytest for test_enri...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -510,7 +518,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10' or '⌘R'</ShortCut>
           <Description>Run 'pytest in test_rerunner.py'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pytest in test_shall...'">
