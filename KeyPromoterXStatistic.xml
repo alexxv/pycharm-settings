@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1134</Count>
+          <Count>1140</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -489,6 +489,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'pytest for test_spec...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
+          <Description>Run 'pytest for test_spec...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'pytest in test'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -849,6 +857,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pytest for test_spec_patterns.test_spec_pattern_is_true'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pytest for test_spec_patterns.test_spec_pattern_is_true'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'pytest for test_tag_email_first_seen.test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -974,7 +990,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>188</Count>
+          <Count>193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
