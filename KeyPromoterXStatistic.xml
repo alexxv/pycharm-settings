@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1255</Count>
+          <Count>1266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -798,7 +798,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'pytest for test_billing_calculation.test_billing_calc__site_config_not_found__decision_not_throws_should_be_billed_non_and_proper_reason'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pytest for test_converters.test_tx_props_converter'">
