@@ -201,6 +201,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'cloudwatch_watcher'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'cloudwatch_watcher'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'generate_views'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -407,6 +415,14 @@
           <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
           <Description>Run 'app'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'cloudwatch_watcher'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10' or '⇧⌘R'</ShortCut>
+          <Description>Run 'cloudwatch_watcher'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'db_config'">
@@ -734,6 +750,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'bla'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'cloudwatch_watcher'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'cloudwatch_watcher'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
