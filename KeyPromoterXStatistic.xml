@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1319</Count>
+          <Count>1328</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -966,6 +966,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'pytest in test_rerunner.py'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pytest in test_sanity.py'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pytest in test_sanity.py'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
