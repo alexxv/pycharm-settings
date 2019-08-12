@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1342</Count>
+          <Count>1344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -142,6 +142,14 @@
           <IdeaActionID>GotoAction</IdeaActionID>
           <ShortCut>'⇧⌘A'</ShortCut>
           <Description>Find Action...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'⌥F7'</ShortCut>
+          <Description>Find Usages</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -982,7 +990,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'pytest in test_sanity.py'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pytest in test_shallow_planner.py'">
