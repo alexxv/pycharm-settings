@@ -881,6 +881,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pytest for test_sanity.test_sanity_tree_model'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pytest for test_sanity.test_sanity_tree_model'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'pytest for test_shallow_planner.ShallowPlannerTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
