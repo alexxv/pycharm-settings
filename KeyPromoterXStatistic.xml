@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1349</Count>
+          <Count>1353</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -662,7 +662,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10' or '⌘R'</ShortCut>
           <Description>Run 'run_local_train'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'scratch'">
