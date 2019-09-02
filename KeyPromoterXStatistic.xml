@@ -633,6 +633,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'run dataprep'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10' or '⌘R'</ShortCut>
+          <Description>Run 'run dataprep'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'run'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
