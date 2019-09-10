@@ -14,4 +14,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="pri" value="print(“$VAR$: ” + str($VAR$))" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
 </templateSet>
