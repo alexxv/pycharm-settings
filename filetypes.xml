@@ -12,17 +12,18 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Dockerfile_Ubuntu" type="PLAIN_TEXT" />
       <mapping pattern="ds_phone_tagging" type="PLAIN_TEXT" />
       <mapping pattern="bla" type="PLAIN_TEXT" />
       <mapping pattern="domain_type_by_exact_match" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_py3" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="txs_dataset_generation_predicate_template" type="PLAIN_TEXT" />
       <mapping pattern="input_file" type="PLAIN_TEXT" />
       <mapping pattern="ds_address_tagging" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_py3" type="PLAIN_TEXT" />
       <mapping pattern="ds_merchants_domains_tagging" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="com_whois" type="PLAIN_TEXT" />
