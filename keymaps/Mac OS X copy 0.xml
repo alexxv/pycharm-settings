@@ -31,6 +31,11 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
+  <action id="NextWindow" />
+  <action id="PreviousWindow">
+    <keyboard-shortcut first-keystroke="shift meta back_quote" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
