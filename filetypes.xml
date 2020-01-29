@@ -6,6 +6,7 @@
       <mapping pattern="Dockerfile_py3" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="input_file" type="PLAIN_TEXT" />
+      <mapping pattern="keys" type="PLAIN_TEXT" />
       <mapping pattern="ds_merchants_domains_tagging" type="PLAIN_TEXT" />
       <mapping pattern="ds_phone_tagging" type="PLAIN_TEXT" />
       <mapping pattern="domain_type_by_exact_match" type="PLAIN_TEXT" />
