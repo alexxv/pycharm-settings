@@ -15,11 +15,11 @@
       <mapping pattern="ds_address_tagging" type="PLAIN_TEXT" />
       <mapping pattern="ds_reshipper_destination_countries" type="PLAIN_TEXT" />
       <mapping pattern="txs_dataset_generation_predicate_template" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="server" type="PLAIN_TEXT" />
       <mapping ext="com_whois" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping pattern="utils" type="Python" />
       <mapping pattern="test_super_bolt" type="Python" />
       <mapping pattern="query.sql" type="SQL" />
