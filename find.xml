@@ -17,7 +17,7 @@
     <mask>.py</mask>
     <mask>*.txt</mask>
     <mask>*</mask>
-    <mask>*.json</mask>
     <mask>*.py</mask>
+    <mask>*.json</mask>
   </component>
 </application>
