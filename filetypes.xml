@@ -2,26 +2,26 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="Dockerfile_Ubuntu" type="PLAIN_TEXT" />
-      <mapping pattern="ds_phone_tagging" type="PLAIN_TEXT" />
-      <mapping pattern="ds_reshipper_destination_countries" type="PLAIN_TEXT" />
-      <mapping pattern="bla" type="PLAIN_TEXT" />
-      <mapping pattern="domain_type_by_exact_match" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="keys" type="PLAIN_TEXT" />
-      <mapping pattern="txs_dataset_generation_predicate_template" type="PLAIN_TEXT" />
-      <mapping pattern="input_file" type="PLAIN_TEXT" />
-      <mapping pattern="ds_address_tagging" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_py3" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="input_file" type="PLAIN_TEXT" />
+      <mapping pattern="keys" type="PLAIN_TEXT" />
       <mapping pattern="ds_merchants_domains_tagging" type="PLAIN_TEXT" />
+      <mapping pattern="ds_phone_tagging" type="PLAIN_TEXT" />
+      <mapping pattern="domain_type_by_exact_match" type="PLAIN_TEXT" />
+      <mapping pattern="bla" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_Ubuntu" type="PLAIN_TEXT" />
+      <mapping pattern="ds_address_tagging" type="PLAIN_TEXT" />
+      <mapping pattern="ds_reshipper_destination_countries" type="PLAIN_TEXT" />
+      <mapping pattern="txs_dataset_generation_predicate_template" type="PLAIN_TEXT" />
       <mapping ext="server" type="PLAIN_TEXT" />
       <mapping ext="com_whois" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
-      <mapping pattern="test_super_bolt" type="Python" />
       <mapping pattern="utils" type="Python" />
+      <mapping pattern="test_super_bolt" type="Python" />
       <mapping pattern="query.sql" type="SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
